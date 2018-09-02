@@ -1,6 +1,6 @@
 # webpack-react
 
-## 3. webpack dev server config
+## 3. webpack dev server  hot-module-replacement
 
 ## install
 
@@ -9,14 +9,7 @@ $ npm install
 ```
 
 ```bash
-$ npm run build
-```
-```bash
-$ npm run start        //`server is running on 3333 ....`
+$ npm run dev:client
 ```
 
 
-## 配置webpack dev server 
-
-
-## 配置hot module replacement 
