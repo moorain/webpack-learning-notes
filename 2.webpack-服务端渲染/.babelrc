@@ -1,7 +1,0 @@
-
-{
-    "presets": [
-        ["ES2015",{"loose":true}],
-        "react"
-    ]
-}
