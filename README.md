@@ -1,4 +1,7 @@
-# webpack-learning-notes
+# webpack-react
+
+## 1. Basic configuration
+
 ## install
 
 ```bash
