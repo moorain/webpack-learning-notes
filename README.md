@@ -1,6 +1,6 @@
 # webpack-react
 
-## 2. Server rendering
+## 3. webpack dev server config
 
 ## install
 
@@ -16,3 +16,7 @@ $ npm run start        //`server is running on 3333 ....`
 ```
 
 
+## 配置webpack dev server 
+
+
+## 配置hot module replacement 
