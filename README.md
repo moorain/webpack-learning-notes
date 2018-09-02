@@ -1,6 +1,6 @@
 # webpack-react
 
-## 1. Basic configuration
+## 2. Server rendering
 
 ## install
 
@@ -11,3 +11,8 @@ $ npm install
 ```bash
 $ npm run build
 ```
+```bash
+$ npm run start        //`server is running on 3333 ....`
+```
+
+
