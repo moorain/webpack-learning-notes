@@ -4,7 +4,7 @@ import React from 'react'
 class App extends React.Component{
     render(){
         return (
-           <div>webpack—dev-server hot-module-replacement 服务端渲染</div>
+           <div>eslint</div>
         )
     }
 }
